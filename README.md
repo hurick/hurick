@@ -33,8 +33,6 @@ I am on the field professionally since 2014. Started in a small startup called *
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=ffffff)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=React&logoColor=333333)
 ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=for-the-badge&logo=React&logoColor=333333)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=Angular&logoColor=ffffff)
-![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=ffffff)
 
 **Backend Development**
 
@@ -52,7 +50,6 @@ I am on the field professionally since 2014. Started in a small startup called *
 **Operational Systems**
 
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=333333)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=ffffff)
 ![MacOS](https://img.shields.io/badge/-MacOS-000000?style=for-the-badge&logo=Apple&logoColor=ffffff)
 ![Android](https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=Android&logoColor=ffffff)
 ![iOS](https://img.shields.io/badge/-iOS-000000?style=for-the-badge&logo=iOS&logoColor=ffffff)
@@ -60,8 +57,6 @@ I am on the field professionally since 2014. Started in a small startup called *
 **Tools**
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=ffffff)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=for-the-badge&logo=GitLab&logoColor=ffffff)
 ![Visual Sudio Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=ffffff)
 ![Sublime Text](https://img.shields.io/badge/-Sublime_Text-FF9800?style=for-the-badge&logo=Sublime-Text&logoColor=ffffff)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=ffffff)
