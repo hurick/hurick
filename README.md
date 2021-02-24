@@ -72,5 +72,5 @@ I'm not a very social media person, but, feel free to send me a message asking a
 [![Gmail](https://img.shields.io/badge/-Gmail-ea4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:hurickkrugner@gmail.com)
 [![CodePen](https://img.shields.io/badge/-CodePen-131417?style=for-the-badge&logo=Codepen&logoColor=white)](https://codepen.io/hurick)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/hurickkrugner)
-[![Twitter](https://img.shields.io/badge/-Twitter-1da1f2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/hkrugner95)
-[![Instagram](https://img.shields.io/badge/-Instagram-e1306c?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/hurickao)
+[![Twitter](https://img.shields.io/badge/-Twitter-1da1f2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/hrkingtv)
+[![Instagram](https://img.shields.io/badge/-Instagram-e1306c?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/hrkingtv)
