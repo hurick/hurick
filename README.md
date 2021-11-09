@@ -3,10 +3,9 @@
 My name is **Hurick Krügner** and I'm a brazilian **Frontend Software Engineer**.
 I am on the field professionally since 2014. Started in a small startup called **Kodame** and now I'm leading a team in a fintech called [**Live On**](https://liveonbaas.com).
 
-💼 Lead Frontend Engineer at [Live On](https://liveonbaas.com)  
+💼 Lead Frontend Engineer at [**Live On**](https://liveonbaas.com)  
 📚 I'm currently learning React Native and Node.js  
-🌎 I always said *"This will be my open source year"* and never did it. In 2021 I'm starting to change this.  
-⚡ Besides technology, I really love discussing Philosophy, especially Atheism and Nihilism.
+⚡ Besides technology, I really love discussing Philosophy, especially Atheism and Nihilism
 
 ### 💻 Tech Stack
 
@@ -27,5 +26,3 @@ I'm not a very social media person, but, feel free to send me a message asking a
 [![Gmail](https://img.shields.io/badge/-Gmail-ea4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:hurickkrugner@gmail.com)
 [![CodePen](https://img.shields.io/badge/-CodePen-131417?style=for-the-badge&logo=Codepen&logoColor=white)](https://codepen.io/hurick)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/hurickkrugner)
-[![Twitter](https://img.shields.io/badge/-Twitter-1da1f2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/hurickao)
-[![Instagram](https://img.shields.io/badge/-Instagram-e1306c?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/hurick95)
