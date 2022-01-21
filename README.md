@@ -1,11 +1,11 @@
 ## <img src="https://raw.githubusercontent.com/hurick/hurick/master/assets/wave.gif" width="25px"> Hello, mate!
 
-My name is **Hurick Krügner** and I'm a brazilian **Frontend Software Engineer**.
-I am on the field professionally since 2014. Started in a small startup called **Kodame** and now I'm leading a team in a fintech called [**Live On**](https://liveonbaas.com).
+My name is **Hurick Krügner** and I'm a brazilian senior **Frontend Software Engineer**.  
+I've been working professionally since 2014; started in a small startup called **Kodame** and now I'm leading a team in a big bank called [**Banco Modal**](https://modal.com.br).
 
-💼 Lead Frontend Engineer at [**Live On**](https://liveonbaas.com)  
+💼 Lead Frontend Engineer at [**Banco Modal**](https://modal.com.br)  
 📚 I'm currently learning React Native and Node.js  
-⚡ Besides technology, I really love discussing Philosophy, especially Atheism and Nihilism
+⚡ Besides technology, I really love discussing Philosophy, Atheism and Nihilism
 
 ### 💻 Tech Stack
 
