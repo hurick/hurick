@@ -5,7 +5,7 @@ I've been working professionally since 2014; started in a small startup called *
 
 💼 Lead Frontend Engineer at [**Banco Modal**](https://modal.com.br)  
 📚 I'm currently learning React Native and Node.js  
-⚡ Besides technology, I really love discussing Philosophy
+⚡ I really love discussing Philosophy
 
 ### 💻 Tech Stack
 
