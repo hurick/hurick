@@ -1,11 +1,11 @@
  ## <img src="https://raw.githubusercontent.com/hurick/hurick/master/assets/wave.gif" width="25px"> Hello, mate!
 
-My name is **Hurick Krügner** and I'm a brazilian senior **Frontend Software Engineer**.  
-I've been working professionally since 2014; started in a small startup called **Kodame** and now I'm leading a team in a big bank called [**Banco Modal**](https://modal.com.br).
+My name is **Hurick Krügner**, 27, and I'm a brazilian senior **Frontend Software Engineer**.  
+I've been working professionally since 2014; started in a small startup called **Kodame** and now I'm working as a senior Frontend Engineer @ ?
 
-💼 Lead Frontend Engineer at [**Banco Modal**](https://modal.com.br)  
-📚 I'm currently learning React Native and Node.js  
-⚡ I really love discussing Philosophy
+💼 Senior Frontend Engineer at ?  
+📚 Currently learning React Native and Node.js  
+⚡ Love discussing Philosophy
 
 ### 💻 Tech Stack
 
