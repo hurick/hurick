@@ -1,7 +1,7 @@
  ## <img src="https://raw.githubusercontent.com/hurick/hurick/master/assets/wave.gif" width="25px"> Hello, mate!
 
 My name is **Hurick Krügner**, 27, and I'm a brazilian senior **Frontend Software Engineer**.  
-I've been working professionally since 2014; started in a small startup called **Kodame** and now I'm working as a senior Frontend Engineer @ Avenue Code
+I've been working professionally since 2014; started in a small startup called **Kodame** and now I'm working as a senior Frontend Engineer at Avenue Code.
 
 💼 Senior Frontend Engineer at Avenue Code  
 📚 Currently learning React Native and Node.js  
