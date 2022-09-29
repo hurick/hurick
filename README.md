@@ -2,8 +2,8 @@
 
 My name is **Hurick Krügner**, 27, and I'm a brazilian **Frontend Software Engineer**.  
 
-I've been working professionally since 2014; started in a small startup called **Kodame** and now I'm working as a Frontend Engineer consultant at Avenue Code.
+I've been working professionally since 2014; currently working as a Frontend Engineer @ ?.
 
-💼 Senior Frontend Engineer at Avenue Code  
-📚 Currently learning React Native and Node.js  
+💼 Senior Frontend Engineer  
+📚 Currently learning React Native, Node.js & GraphQL  
 ⚡ Love discussing Philosophy
