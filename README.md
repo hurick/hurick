@@ -2,8 +2,8 @@
 
 My name is **Hurick Krügner**, 28, and I'm a brazilian developer and UX/UI designer.  
 
-I've been working professionally since 2014; currently working as a Frontend Engineer @ [Capgemini](https://capgemini.com)
+I've been working professionally since 2014; currently working as a Lead Frontend Engineer @ [VTurb](https://vturb.com)
 
-💼 Senior Frontend Engineer  
+💼 Lead/Senior Frontend Engineer  
 📚 Currently learning React Native, Node.js & GraphQL  
 ⚡ Love discussing Philosophy
