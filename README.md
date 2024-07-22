@@ -1,9 +1,8 @@
  ## <img src="https://raw.githubusercontent.com/hurick/hurick/master/assets/wave.gif" width="25px"> Hello, folks!
 
-My name is **Hurick Krügner**, 28, and I'm a brazilian developer and UX/UI designer.  
+My name is **Hurick Krügner**, 29, and I'm a brazilian developer and UX/UI designer.  
 
-I've been working professionally since 2014; currently working as a Lead Frontend Engineer @ [VTurb](https://vturb.com)
+I've been working professionally since 2014; currently looking for a job.
 
 💼 Lead/Senior Frontend Engineer  
-📚 Currently learning React Native, Node.js & GraphQL  
 ⚡ Love discussing Philosophy
